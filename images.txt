@@ -1,2 +1,4 @@
 xhofe/alist
 xiaoyaliu/alist
+docker.io/elasticsearch:7.4.0
+tobias74/elasticsearch-head
